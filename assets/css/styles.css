@@ -285,7 +285,6 @@ footer h1
     font-family: var(--font4);
     font-size: 48px;
 }
-
 footer div 
 {
     display: flex;
@@ -300,7 +299,6 @@ footer div p
 footer div img{
     width:90px;
 }
-
 footer div a
 {
     text-decoration: none;
